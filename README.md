@@ -5,4 +5,4 @@ berikut link download Intel Unison atau bisa download langsung di microsfot stor
 <br>
 Intel Unison : https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26
 <br>
-unutuk android dan iphone sudah tersedia di google playstore dan appstore
+untuk android dan iphone sudah tersedia di google playstore dan appstore
