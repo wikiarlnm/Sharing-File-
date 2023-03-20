@@ -1,8 +1,5 @@
-# SharingFile
-Sharing file laptop/pc windows to Androind or Iphone dengan sangat mudah, dengan aplikasi keluaran nya dari intel yaitu Intel Unison yang dimana aplikasi trasfer or sharing file antara windows laptop/pc ke iphone maupun android dengan menggunakan koneksi bluetooth 
-<br>
-berikut link download Intel Unison atau bisa download langsung di microsfot store jika sudah tersedia.
-<br>
-Intel Unison : https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26
-<br>
-untuk android dan iphone sudah tersedia di google playstore dan appstore
+Sharing files between a Windows laptop/PC and Android or iPhone is now very easy, thanks to Intel's Unison application. This app allows for file transfer and sharing between Windows laptops/PCs and iPhones or Androids using Bluetooth connections.
+
+You can download Intel Unison using the following link, or directly from the Microsoft Store if it's available: https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26.
+
+For Android and iPhone devices, the app is available on the Google Play Store and the App Store.
